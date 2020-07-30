@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.mustaq.transactions">
+
+    <application android:name="dev.mustaq.ModularApplication">
+
+        <activity android:name=".presentation.wallet.WalletActivity"/>
+
+    </application>
+
+
+</manifest>

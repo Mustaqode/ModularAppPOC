@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.mustaq.auth">
+
+    <application android:name="dev.mustaq.ModularApplication">
+
+        <activity android:name=".presentation.login.LoginActivity"/>
+
+    </application>
+
+
+</manifest>
